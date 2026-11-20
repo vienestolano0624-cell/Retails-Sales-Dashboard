@@ -11,7 +11,7 @@ Calculate key business metrics such as Total Sales, Total Profit, and Profit Mar
 Develop an interactive dashboard to communicate findings and insights.
 
 ### Dataset used
-- <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/clean_retail_sales_dataset.xlsx"> Dataset</a>
+- <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>
 Expected Business Insights
 Which products and categories generate the highest revenue.
 Which customer segments contribute most to sales.
@@ -40,7 +40,7 @@ Analyzed sales trends, product performance, and customer segments.
 Added slicers for interactive data exploration.
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix"> Dashboard</a>
 
-####### Dashboard Screenshot
+Dashboard Screenshot
 <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Screenshot%202026-11-21%20004744.png"> Dashboard Screenshot</a>
 
 

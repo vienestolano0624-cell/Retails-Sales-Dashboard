@@ -12,6 +12,8 @@ Develop an interactive dashboard to communicate findings and insights.
 
 ### Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>
+
+###
 Expected Business Insights
 Which products and categories generate the highest revenue.
 Which customer segments contribute most to sales.
@@ -40,7 +42,7 @@ Analyzed sales trends, product performance, and customer segments.
 Added slicers for interactive data exploration.
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix"> Dashboard</a>
 
-Dashboard Screenshot
+Dashboard 
 <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Screenshot%202026-11-21%20004744.png"> Dashboard Screenshot</a>
 
 

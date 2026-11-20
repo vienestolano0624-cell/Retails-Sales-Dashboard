@@ -10,9 +10,9 @@
 - Calculate key business metrics such as Total Sales, Total Profit, and Profit Margin.
 - Develop an interactive dashboard to communicate findings and insights.
 # TOOLS
-- MS excel 
-- Mysql Workbench
-- Power BI
+- MS excel (Data Cleaning)
+- Mysql Workbench (Data Analysis)
+- Power BI (Data Visualization)
 
 # Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>

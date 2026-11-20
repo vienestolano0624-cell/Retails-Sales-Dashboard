@@ -13,7 +13,7 @@
 ### Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>
 
-Expected Business Insights
+# Expected Business Insights
 - Which products and categories generate the highest revenue.
 - Which customer segments contribute most to sales.
 - Which regions have the strongest sales performance.

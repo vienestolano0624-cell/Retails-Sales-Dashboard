@@ -43,7 +43,7 @@ Analyzed sales trends, product performance, and customer segments.
 Added slicers for interactive data exploration.
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix"> Dashboard</a>
 
-Dashboard 
+####### Dashboard 
 <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Screenshot%202026-11-21%20004744.png"> Dashboard Screenshot</a>
 
 

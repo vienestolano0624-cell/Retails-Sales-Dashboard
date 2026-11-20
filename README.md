@@ -9,6 +9,10 @@
 - Identify high-performing and low-performing regions.
 - Calculate key business metrics such as Total Sales, Total Profit, and Profit Margin.
 - Develop an interactive dashboard to communicate findings and insights.
+# TOOLS
+- MS excel 
+- Mysql Workbench
+- Power BI
 
 # Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>

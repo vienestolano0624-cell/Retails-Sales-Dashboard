@@ -2,7 +2,7 @@
 This project focuses on analyzing retail sales data to evaluate business performance, identify sales trends, measure profitability, and understand customer purchasing behavior.
 
 ### Objectives
-Analyze overall sales revenue and profitability.
+- Analyze overall sales revenue and profitability.
 Identify top-performing products and product categories.
 Evaluate monthly sales trends and performance.
 Analyze customer segments and sales channels.
@@ -13,7 +13,6 @@ Develop an interactive dashboard to communicate findings and insights.
 ### Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>
 
-###
 Expected Business Insights
 - Which products and categories generate the highest revenue.
 Which customer segments contribute most to sales.
@@ -43,7 +42,7 @@ Added slicers for interactive data exploration.
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix"> Dashboard</a>
 
 
- Dashboard 
+ Dashboard Screenshot
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Screenshot%202026-11-21%20004744.png"> Dashboard Screenshot</a>
 
 

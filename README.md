@@ -42,13 +42,13 @@ Expected Business Insights
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix"> Dashboard</a>
 
 
- Dashboard Screenshot
+ # Dashboard Screenshot
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Screenshot%202026-11-21%20004744.png"> Dashboard Screenshot</a>
 
-Business Recommendation 
+# Business Recommendation 
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/Recommendation.pdf"> Recommendation</a>
 
-Conclusion 
+# Conclusion 
 - The analysis provides insights into retail sales performance, customer behavior, product profitability, and operational opportunities. These findings can help management make informed decisions, improve business strategies, and increase overall profitability.
 
 

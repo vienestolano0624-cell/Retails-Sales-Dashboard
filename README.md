@@ -3,12 +3,12 @@ This project focuses on analyzing retail sales data to evaluate business perform
 
 ### Objectives
 - Analyze overall sales revenue and profitability.
-Identify top-performing products and product categories.
-Evaluate monthly sales trends and performance.
-Analyze customer segments and sales channels.
-Identify high-performing and low-performing regions.
-Calculate key business metrics such as Total Sales, Total Profit, and Profit Margin.
-Develop an interactive dashboard to communicate findings and insights.
+-Identify top-performing products and product categories.
+-Evaluate monthly sales trends and performance.
+-Analyze customer segments and sales channels.
+-Identify high-performing and low-performing regions.
+-Calculate key business metrics such as Total Sales, Total Profit, and Profit Margin.
+-Develop an interactive dashboard to communicate findings and insights.
 
 ### Data set used
 - <a href="https://github.com/vienestolano0624-cell/Retails-Sales-Dashboard/blob/main/retail.csv"> Dataset</a>

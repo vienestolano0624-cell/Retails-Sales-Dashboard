@@ -15,6 +15,7 @@ Develop an interactive dashboard to communicate findings and insights.
 
 ###
 Expected Business Insights
+
 Which products and categories generate the highest revenue.
 Which customer segments contribute most to sales.
 Which regions have the strongest sales performance.
